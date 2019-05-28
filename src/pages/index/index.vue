@@ -1,11 +1,16 @@
 <template>
-  <div class="home">
-    哈哈哈
+  <div class="index">
+    <IndexHeader></IndexHeader>    
   </div>
 </template>
 
 <script>
-export default {
-  name: 'index'
-}
+ import IndexHeader from "./header"
+
+  export default {
+    name: 'index',
+    components: {
+      IndexHeader
+    }
+  }
 </script>
