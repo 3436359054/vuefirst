@@ -52,7 +52,7 @@ export default {
         height: 0
         position:relative
         top:.22rem
-        border-left: .09rem solid transparent
-        border-right: .09rem solid transparent
-        border-top: .2rem solid #fff
+        border-left: .1rem solid transparent
+        border-right: .1rem solid transparent
+        border-top: .18rem solid #fff
 </style>
